@@ -1,7 +1,7 @@
 
 ## Oi 👋, Eu sou o Gustavo Viana
 
-### 💻 Apaixonado por análise e ciência dos dados!
+### 💻 Apaixonado por análise e ciência de dados!
 
 - 🌱 Atualmente estou aprendendo sobre **Linguagem R, Machine Learning, Python**
 - 👨‍💻 Meu portfólio de projetos: [ghutoviana.github.io/portifolio_projetos](https://ghutoviana.github.io/portifolio_projetos/)
