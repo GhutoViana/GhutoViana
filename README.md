@@ -47,6 +47,8 @@
   </a>
 </p>
 
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GhutoViana&show_icons=true&theme=radical)
+
 
 Editorial by HTML5 UP
 html5up.net | @ajlkn
@@ -78,3 +80,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools) --->
+
+
+
