@@ -1,5 +1,5 @@
 
-## Oi 👋, Eu sou o Gustavo Viana
+## Olá, Eu sou o Gustavo Viana!
 
 ### 💻 Apaixonado por análise e ciência de dados!
 
